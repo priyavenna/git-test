@@ -16,4 +16,6 @@ git push origin master
 
 git push
 
+git log
+
 
